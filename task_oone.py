@@ -4,7 +4,8 @@ def add(x,y):
 
 def random():
     return "hello"
-
+def priya():
+    pass
 def something():
     return "hello world!"
 
@@ -12,3 +13,4 @@ def something():
 if __name__=="__main__":
     add(40, 50)
     random()
+    obj=priya()
